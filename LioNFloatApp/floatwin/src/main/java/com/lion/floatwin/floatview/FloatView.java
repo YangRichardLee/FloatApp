@@ -5,17 +5,9 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
-import android.widget.Toast;
 
-import com.lion.floatwin.LioNSDK;
 import com.lion.floatwin.R;
-import com.lion.floatwin.manager.FloatManager;
 
-
-/**
- * @author zhangyang
- * @date 2018/1/4
- */
 
 public class FloatView extends RelativeLayout implements View.OnClickListener{
 
@@ -43,7 +35,7 @@ public class FloatView extends RelativeLayout implements View.OnClickListener{
 
     private void init(Context context) {
         mContext = context;
-        view = inflate(context, R.layout.gm_layout_float_window,null);
+        view = inflate(context, R.layout.layout_float_window,null);
         initComponents();
         addView(view);
     }

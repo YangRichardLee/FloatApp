@@ -1,7 +1,6 @@
 package com.lion.floatwin.manager;
 
 
-import android.app.Activity;
 
 import com.lion.floatwin.LioNSDK;
 import com.lion.floatwin.floatview.FloatOnClick;
@@ -9,11 +8,6 @@ import com.lion.floatwin.floatview.FloatView;
 import com.lion.floatwin.floatview.FloatWindow;
 import com.lion.floatwin.floatview.IFloatWindow;
 import com.lion.floatwin.floatview.Screen;
-
-/**
- * @author zhangyang
- * @date 2018/1/5
- */
 
 public class FloatManager {
 

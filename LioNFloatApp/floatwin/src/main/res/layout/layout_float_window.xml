@@ -13,7 +13,7 @@
                     android:id="@+id/floating_front"
                     android:layout_width="34dp"
                     android:layout_height="34dp"
-                    android:src="@drawable/gm_float_menu_big_icon" />
+                    android:src="@drawable/float_menu" />
 
             </RelativeLayout>
 

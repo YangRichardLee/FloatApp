@@ -15,10 +15,6 @@ import android.widget.Toast;
 import com.lion.floatwin.LioNSDK;
 
 
-/**
- * Created by zhangyang on 2017/12/28.
- */
-
 public class IFloatWindowImpl implements IFloatWindow {
 
     private static final String TAG = IFloatWindowImpl.class.getName();

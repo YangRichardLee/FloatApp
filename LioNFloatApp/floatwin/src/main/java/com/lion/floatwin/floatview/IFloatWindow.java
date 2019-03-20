@@ -2,10 +2,6 @@ package com.lion.floatwin.floatview;
 
 import android.view.View;
 
-/**
- * @author zhangyang
- * @date 2017/12/28
- */
 
 public interface IFloatWindow {
 

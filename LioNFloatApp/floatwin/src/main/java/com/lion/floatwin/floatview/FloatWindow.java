@@ -9,12 +9,6 @@ import android.view.ViewGroup;
 import android.view.animation.BounceInterpolator;
 
 
-
-/**
- * @author zhangyang
- * @date 2017/12/28
- */
-
 public class FloatWindow {
 
     private FloatWindow() {

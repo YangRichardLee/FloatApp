@@ -7,10 +7,6 @@ import android.view.View;
 import android.view.WindowManager;
 
 
-/**
- *
- */
-
 class FloatApp implements IFloatWindowView {
 
     private static final String TAG = FloatApp.class.getName();
